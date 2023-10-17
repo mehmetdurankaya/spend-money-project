@@ -76,7 +76,7 @@ export const data = [
 		id: 13,
 		title: "Helicopter",
 		price: 750000,
-		img: "https://www.neoldu.com/d/other/en-luks-ve-pahali-helikopterler-001.webp"
+		img: "https://images.bursadabugun.com/haber/2017/06/05/836250-rusya-super-helikopter-uretti-59356aa115bf1.jpg"
 	},
 	{
 		id: 14,

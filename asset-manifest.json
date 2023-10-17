@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spend-money-project/static/css/main.c71c58c8.css",
+    "main.js": "/spend-money-project/static/js/main.a3f047f5.js",
+    "static/js/787.c02b0975.chunk.js": "/spend-money-project/static/js/787.c02b0975.chunk.js",
+    "index.html": "/spend-money-project/index.html",
+    "main.c71c58c8.css.map": "/spend-money-project/static/css/main.c71c58c8.css.map",
+    "main.a3f047f5.js.map": "/spend-money-project/static/js/main.a3f047f5.js.map",
+    "787.c02b0975.chunk.js.map": "/spend-money-project/static/js/787.c02b0975.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71c58c8.css",
+    "static/js/main.a3f047f5.js"
+  ]
+}

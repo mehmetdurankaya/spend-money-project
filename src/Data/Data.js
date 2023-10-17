@@ -76,7 +76,7 @@ export const data = [
 		id: 13,
 		title: "Helicopter",
 		price: 750000,
-		img: "http://www.brandlifemag.com/wp-content/uploads/2016/10/lukshelikopter_01-1170x780.jpg"
+		img: "https://www.neoldu.com/d/other/en-luks-ve-pahali-helikopterler-001.webp"
 	},
 	{
 		id: 14,
